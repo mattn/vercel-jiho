@@ -1,0 +1,13 @@
+{
+  "module": "es2022",
+  "target": "es2017",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "nostr-tools": "^1.10.0",
+    "websocket-polyfill": "^0.0.3"
+  }
+}
